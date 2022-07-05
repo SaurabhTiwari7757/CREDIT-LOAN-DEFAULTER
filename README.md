@@ -25,7 +25,7 @@ Managing the credit risk by using the past data and deciding whom to give the lo
 
 -Handling Imbalance dataset : performed oversampling using SMOTE, Resampling technique
 
--Applied Machine Learning Algorithms : Logistic Regression, Decision Tree, Random Forest, ExtraTreesClassifier Adaboost Classifier, Gradient Boosting, XG Boost,   VotingClassifier
+-Applied Machine Learning Algorithms : Logistic Regression, Decision Tree, Random Forest, ExtraTreesClassifier Adaboost Classifier, Gradient Boosting, XG Boost,                                              VotingClassifier
 
 -Tuning the model : Adjusting the threshold level for probabilities
 
